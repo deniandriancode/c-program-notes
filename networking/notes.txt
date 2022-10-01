@@ -1,0 +1,2 @@
+The OSI Model is a logical and conceptual model that defines network communication used by systems open to interconnection and communication with other systems.
+

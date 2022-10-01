@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+filearg=$1
+
+gcc $filearg.c -o $filearg -lncurses -lpanel

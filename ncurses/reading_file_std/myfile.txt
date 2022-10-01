@@ -1,0 +1,26 @@
+On September 28, we’re hosting Flow State, our inaugural product-focused conference which will be broadcast to developers and technologists everywhere for free. You can register here. Need some convincing?
+
+Well, here’s a staggering statistic for you. According to Nick Bloom, a professor of economics at Stanford focused on researching the shift from working in offices to working at home, the trend towards WFH has started to stabilize. It was roughly 5% pre-pandemic, jumped to more than 60% during the height of lockdown, and has now leveled off at around 30%. There has been a six-fold increase, in other words, in people working from home between the start of 2020 and today.
+
+In America alone, estimates Prof. Bloom, that translates to saving roughly 200 million hours and six billion miles EACH WEEK. Let that sink in for a second. If we extrapolate across the globe, there may be upwards of a BILLION hours previously spent on commuting that can now be devoted to learning, working, and recuperating for the next batch of productivity.
+
+    The shift to WFH is the largest shock to labor markets in decades. Pre-pandemic WFH was trending towards 5% of days by 2022. Now WFH is now stabilizing at 30%, a 6-fold jump.
+
+    In America alone this is saving about 200 million hours and 6 billion miles of commuting a week. pic.twitter.com/XK4WVWXq3f
+    — Nick Bloom (@I_Am_NickBloom) August 29, 2022
+
+How are employers, organizations, and software developers responding to this tremendous change? That’s just one topic we’ll explore at Flow State on Wednesday, September 28. The event will gather developers, technologists, and technology leaders to discuss some of today’s biggest challenges and how to solve them.
+
+For example, let’s say hybrid and remote work has cut way down on employees average time spent commuting each week, but also reduced the ease with which they can meet face to face or find a subject matter expert. 
+
+Nearly 70% of developers say they encounter a knowledge silo at least once a week, and 63% spend more than 30 minutes a day searching for answers or solutions to problems. For a team of 50 developers, the amount of time spent searching for answers/solutions adds up to between 333-651 hours of time lost per week across the entire team. You’ve got all this time back if you skip the commute, but many teams no longer have the ability to shout across a room or walk down the hall to shoulder tap a subject matter expert. 
+
+How do you empower a flow state over a state of disruption? Jody Bailey, Stack Overflow’s Chief Technology Officer, will discuss this issue with engineering leaders from companies like Salesforce and Walmart. We’re hosting multiple panels featuring technical leaders with deep experience in the software business who will discuss why redefining productivity means better defining the developer experience.
+
+As the workplace evolves, so do the skills developers, managers, and executives need to thrive. Organizations are undergoing a massive shift as they look to keep pace with innovation while navigating vast time zone differences, increasingly asynchronous work and an ongoing battle for relevance which requires constant reskilling. In fact, 87% of leaders say they expect to face major skills gaps over the next five years with a heavy reliance on the developer community. We’ll be hearing from Udemy’s VP of Engineering, Seth Hodgson, who will discuss how developers can increase their operational effectiveness to drive better business outcomes by regularly addressing skills gaps in the flow of work.
+
+There will be lots of other terrific talks at the event. Clive Thompson, who wrote the book Coders, will sit down with our own Khalid El Khatib, Stack Overflow’s Chief Marketing Officer for a fireside chat. You can also hear from Dr. Gloria Mark, Chancellor’s Professor of Informatics at the University of California, Irvine, a visiting senior researcher at Microsoft, and author of the forthcoming book Attention Span. She’s the researcher behind a staggering stat we cite often: We spend an average of just 47 seconds on any screen before shifting our attention. It takes 25 minutes to bring our attention back to a task after an interruption. 
+
+The event is hybrid and every single talk will be broadcast to developers and technologists everywhere. (And if you need a sweetener beyond the great content, anyone who joins will get some Stack Overflow stickers in the mail!) We will gather a very limited number of technology leaders in New York to attend the conference live, where they can select their own Stack Overflow t-shirt with an exclusive design printed on-site and pick up an exclusive copy of Stack Overflow Magazine’s premier issue. If you’re based in New York and interested in attending live, click here. Due to capacity limitations, in-person attendance is limited. Again, all are welcome to attend virtually but you can apply to join us in New York by visiting flowstate.stackoverflow.co and clicking “Request to attend in-person”.
+
+See you on September 28th!

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+src=$1
+
+gcc -o $src $src.c
+

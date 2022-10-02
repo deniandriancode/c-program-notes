@@ -8,15 +8,10 @@
 #define CTRL_D 4
 
 char *choices[] = {
-        "Choice 1",
-        "Choice 2",
-        "Choice 3",
-        "Choice 4",
-	"Choice 5",
-	"Choice 6",
-	"Choice 7",
-	"Choice 8",
-	"Choice 9",
+        "Choice 1", "Choice 2", "Choice 3", "Choice 4", "Choice 5",
+	"Choice 6", "Choice 7", "Choice 8", "Choice 9", "Choice 10",
+	"Choice 11", "Choice 12", "Choice 13", "Choice 14", "Choice 15",
+	"Choice 16", "Choice 17", "Choice 18", "Choice 19", "Choice 20",
         "Exit",
 	(char *) NULL
 };
@@ -61,7 +56,7 @@ main (int argc, char *argv[])
 
         set_menu_win (my_menu, my_menu_win);
         set_menu_sub (my_menu, derwin (my_menu_win, 6, 38, 3, 1));
-	set_menu_format (my_menu, 5, 1);
+	set_menu_format (my_menu, 5, 3);
 
         set_menu_mark (my_menu, " * ");
 
@@ -90,6 +85,12 @@ main (int argc, char *argv[])
                         case KEY_UP:
                                 menu_driver (my_menu, REQ_UP_ITEM);
                                 break;
+			case KEY_RIGHT:
+			  	menu_driver (my_menu, REQ_RIGHT_ITEM);
+				break;
+			case KEY_LEFT:
+			  	menu_driver (my_menu, REQ_LEFT_ITEM);
+				break;
 			case KEY_NPAGE:
 			  	menu_driver (my_menu, REQ_SCR_DPAGE);
 				break;
